@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Ambrgna.github.io/ColorAssistJS/static/css/main.073c9b0a.css",
-    "main.js": "/Ambrgna.github.io/ColorAssistJS/static/js/main.f6d2f298.js",
-    "static/js/787.533a3f38.chunk.js": "/Ambrgna.github.io/ColorAssistJS/static/js/787.533a3f38.chunk.js",
-    "static/media/logo.svg": "/Ambrgna.github.io/ColorAssistJS/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Ambrgna.github.io/ColorAssistJS/index.html",
-    "main.073c9b0a.css.map": "/Ambrgna.github.io/ColorAssistJS/static/css/main.073c9b0a.css.map",
-    "main.f6d2f298.js.map": "/Ambrgna.github.io/ColorAssistJS/static/js/main.f6d2f298.js.map",
-    "787.533a3f38.chunk.js.map": "/Ambrgna.github.io/ColorAssistJS/static/js/787.533a3f38.chunk.js.map"
+    "main.css": "/ColorAssistJS/static/css/main.073c9b0a.css",
+    "main.js": "/ColorAssistJS/static/js/main.de6fc26b.js",
+    "static/js/787.533a3f38.chunk.js": "/ColorAssistJS/static/js/787.533a3f38.chunk.js",
+    "static/media/logo.svg": "/ColorAssistJS/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ColorAssistJS/index.html",
+    "main.073c9b0a.css.map": "/ColorAssistJS/static/css/main.073c9b0a.css.map",
+    "main.de6fc26b.js.map": "/ColorAssistJS/static/js/main.de6fc26b.js.map",
+    "787.533a3f38.chunk.js.map": "/ColorAssistJS/static/js/787.533a3f38.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.f6d2f298.js"
+    "static/js/main.de6fc26b.js"
   ]
 }
